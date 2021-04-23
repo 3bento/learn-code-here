@@ -7,13 +7,17 @@ Hi! It is as simple files with couple of course to study and learn about program
 ## Programming languages
 | Name | Description |Link|
 |--|--|--|
-| C++| -
-| javascript| Now we need to persist coulpe of data, where should we do it? In the database.
+| C++|-|
+| Javascript|-|
 
-## 
+## Version Control
+| Name | Description |Link|
+|--|--|--|
+| GIT|-|
+| Markdown|-|
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MzYzNTgxLDE3Nzk0ODg3NTcsLTE5Mj
-A4ODkwNDRdfQ==
+eyJoaXN0b3J5IjpbLTExMDU0NjQzMjMsMTc3OTQ4ODc1NywtMT
+kyMDg4OTA0NF19
 -->
