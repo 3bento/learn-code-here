@@ -13,16 +13,16 @@ Hi! It is as simple files with couple of course to study and learn about program
 ## Version Control
 | Name | Description |Link|
 |--|--|--|
-| GIT|-|[Details](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/learn-git.md)
+| GIT|**Git** (/ɡɪt/) is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source **code** during software development.|[Details](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/learn-git.md)
 | Markdown|-|[Details](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/learn-markdown.md)
 
 ## Databases
 | Name | Description |Link|
 |--|--|--|
-| SQL||[Details](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/database/lang-sql.md)
+| SQL| The Structured Query Language also is called as SQL, it is the language that you should know to deal with databases.|[Details](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/database/lang-sql.md)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjAxMzQwMSwxNzc5NDg4NzU3LC0xOT
-IwODg5MDQ0XX0=
+eyJoaXN0b3J5IjpbMzU0OTg5OTIwLDE3Nzk0ODg3NTcsLTE5Mj
+A4ODkwNDRdfQ==
 -->
