@@ -7,11 +7,11 @@ Hi! It is as simple files with couple of course to study and learn about program
 
 | Name | Description |Link|
 |--|--|--|
-| Frontend code| It is what we can see in the website for example.|
-| Backend code | Everything that we show in the webiste as create user, login, etc... It will be handle by the backend |
+| Frontend code| It is what we can see in the website for example.|[Introduction](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/frontend/introduction.md)
+| Backend code | Everything that we show in the webiste as create user, login, etc... It will be handle by the backend |[Introduction](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/introduction.md)
 | Database | Now we need to persist coulpe of data, where should we do it? In the database.|
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTExODE4NF19
+eyJoaXN0b3J5IjpbLTEyMzQ3OTU0NjhdfQ==
 -->
