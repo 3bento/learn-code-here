@@ -13,11 +13,11 @@ Hi! It is as simple files with couple of course to study and learn about program
 ## Version Control
 | Name | Description |Link|
 |--|--|--|
-| GIT|-|[enter link description here](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/learn-git.md)
-| Markdown|-|
+| GIT|-|[Details](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/learn-git.md)
+| Markdown|-|[Details](https://github.com/nonihongo2/l34rn-c0d3-n0w/blob/main/software-engine/backend/learn-markdown.md)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDY4NDcxMSwxNzc5NDg4NzU3LC0xOT
-IwODg5MDQ0XX0=
+eyJoaXN0b3J5IjpbMTE5MzI5OTAyLDE3Nzk0ODg3NTcsLTE5Mj
+A4ODkwNDRdfQ==
 -->
