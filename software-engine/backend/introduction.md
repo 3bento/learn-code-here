@@ -1,4 +1,4 @@
-# Hello, my friend.
+# Introduction to backend
 
 > Nota:I just start to write it, i will and more content to here. Feel free to help us.
 
@@ -12,7 +12,7 @@ Hi! It is as simple files with couple of course to study and learn about program
 
 
 
-# Backend
+# Backend 
 
 Follow couple of course that you should learn to understand. More different languages you learn easier will be to understand anothers.
 
@@ -26,15 +26,10 @@ Follow couple of course that you should learn to understand. More different lang
 
 [Codecademy SQL](https://www.codecademy.com/learn/learn-sql)
 
-# Frontend
 
-## HTML
-
-[Codecademy HTML](https://www.codecademy.com/learn/learn-html)
-[Codecademy CSS](https://www.codecademy.com/learn/learn-css)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA4ODkwNDRdfQ==
+eyJoaXN0b3J5IjpbMTc3OTQ4ODc1NywtMTkyMDg4OTA0NF19
 -->
