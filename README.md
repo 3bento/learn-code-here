@@ -5,7 +5,7 @@
 
 Hi! There are simple files with a couple of courses to study and learn about programming. Here we have couple of different resources, you should know a little about all of them, and later just go on and learn more about what you really like.
 
-**Note:** I recommend you start as backend first. I am focus on update  the backend first. Because I know more about backend development than frontend development. :)
+**Note:** I recommend you start with the backend first. I am focusing on updating  the backend first, because I know more about backend development than frontend development. :)
 
 | Name | Description |Link|
 |--|--|--|
@@ -24,6 +24,6 @@ Hi! There are simple files with a couple of courses to study and learn about pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjM5MzkyNCwxMzA3MTYxMDcyLDE3ND
+eyJoaXN0b3J5IjpbMTM3NzY1MDIxMiwxMzA3MTYxMDcyLDE3ND
 M5MDgyODIsLTEyMzQ3OTU0NjhdfQ==
 -->
