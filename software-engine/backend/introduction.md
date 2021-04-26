@@ -2,7 +2,8 @@
 
 > Nota:I just start to write it, i will and more content to here. Feel free to help us.
 
-Hi! It is as simple files with couple of course to study and learn about programming. Here we have couple differente resources, you should know a little about all of them and later just go and learn more about what you really like.
+Hi! There are simple files with a couple of courses to study and learn about programming. Here we have couple of different resources, you should know a little about all of them, and later just go on and learn more about what you really like.
+**Note:** I recommend you start with the backend first. I am focusing on updating the backend first, because I know more about backend development than frontend development. :)
 
 ## Programming languages
 | Name | Description |Link|
@@ -23,6 +24,6 @@ Hi! It is as simple files with couple of course to study and learn about program
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU4MzMwMzYsMTc3OTQ4ODc1NywtMT
-kyMDg4OTA0NF19
+eyJoaXN0b3J5IjpbMTEzOTczNDE3NiwtMTEyNTgzMzAzNiwxNz
+c5NDg4NzU3LC0xOTIwODg5MDQ0XX0=
 -->
